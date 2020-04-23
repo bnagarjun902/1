@@ -34,7 +34,13 @@ if p == 6733:
         
 
             
-
+#if else conditional .....       
+#user_name = input(" enter username: ") # input function = string data type.....
+#pass_word = int(input(" enter password: "))
+#if (user_name == "bujji" and pass_word == 95):
+ #   print("successfully logged in ")
+#else:
+ #   print("incorrect  username or password ")
 
         
 
