@@ -30,6 +30,9 @@ p = int(input("enter your ATM pin: "))
 if p == 6733:
          d =  int(input("enter the amount to be withdrawn: "))
          print(d,"rupees withrawn sucessfully" )
+   
+   
+#hi   
 
         
 
