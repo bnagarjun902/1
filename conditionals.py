@@ -43,6 +43,13 @@ if p == 6733:
          print(d,"rupees withrawn sucessfully" )
         
 
+# ATM Transaction........
+print("welcome to SBI ATM")
+print("insert your ATM card")
+p = int(input("enter your ATM pin: "))
+if p == 6733:
+         d =  int(input("enter the amount to be withdrawn: "))
+         print(d,"rupees withrawn sucessfully" )
             
 
 
